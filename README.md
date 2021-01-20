@@ -7,5 +7,5 @@
  
  Jupyter notebooks than are included are:
  - get_data.ipynb - getting datasets from website
- - maps.ipynb - menaging shapfiles. Creating data frame with locations for each zone in dataset
+ - maps.ipynb - managing shapfiles. Creating data frame with locations for each zone in dataset
  - yellow_taxi.ipynb - main notebook with data analysis
