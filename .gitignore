@@ -1,0 +1,6 @@
+data_tmp/*
+!data_tmp/.gitkeep
+
+.ipynb_checkpoints/
+info/*
+data/taxi+_zone_lookup.csv
